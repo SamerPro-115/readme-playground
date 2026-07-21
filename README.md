@@ -1,1 +1,34 @@
-<img src="https://i.postimg.cc/02H8GgGY/Chat-GPT-Image-Jul-21-2026-12-48-55-PM.png" />
+
+  <!-- Banner-->
+  <img src="https://i.postimg.cc/D0DFQLVx/Sam-github-banner.png" />
+
+<!-- Social Media-->
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/samer-al-ashqar-4a4327253">
+<img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge" /> 
+</a>
+
+<a href="https://www.tiktok.com/@samerpro_" >
+  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge" /> 
+</a>
+
+<a href="https://www.youtube.com/@SamerPro_" >
+<img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge" /> 
+</a>
+
+<a href="https://samerpro.com" >
+<img src="https://img.shields.io/badge/SamerPro.com-black?style=for-the-badge" /> 
+</a>
+
+</div>
+
+<br />
+<h2 align="center">
+
+<strong><em>About Me</em></strong>
+
+</h2>
+---
+
+
