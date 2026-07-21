@@ -31,11 +31,19 @@
 
 </h2>
 
-<img src="Imgs/face.gif" align="right" alt="About Me icon"  />
+<img
+  src="Imgs/wolf-2.gif"
+  align="right"
+  alt="About Me icon"
+  width="500"
+/>
 
-Hello I'm samer
 
 
+-  Front-End Developer | Full-Stack Capable
+-  Final-year IT Student (Web Development)
+-  Motion, animation
+-  Riyadh, Saudi Arabia
 
 
 
