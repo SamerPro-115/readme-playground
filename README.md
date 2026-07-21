@@ -31,9 +31,10 @@
 
 </h2>
 
+<img src="Imgs/face.gif" align="right" alt="About Me icon"  />
 
+Hello I'm samer
 
----
 
 
 
