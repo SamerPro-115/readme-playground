@@ -23,29 +23,24 @@
 
 </div>
 
-<br />
 
-<h2 align="center">
 
-<strong><em><img src="Imgs/badge.png" alt="About Me icon" width="20" /> About Me</em></strong>
 
-</h2>
+<br> <br>
 
 <img
-  src="Imgs/wolf-2.gif"
+  src="Imgs/wolf-4.gif"
   align="right"
   alt="About Me icon"
-  width="500"
+  height="200"
 />
 
 
+<br> <br>
 
--  Front-End Developer | Full-Stack Capable
--  Final-year IT Student (Web Development)
--  Motion, animation
--  Riyadh, Saudi Arabia
-
-
+-  **Role:** Front-End Developer | Full-Stack Capable
+-  **Education:** 4th year B.Sc. IT Student (Web Development)
+-  **Focus:** Interactive Web Experiences
 
 
 
