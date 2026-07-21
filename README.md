@@ -27,9 +27,17 @@
 
 <h2 align="center">
 
-<strong><em><img src="/Imgs/badge.png" /> About Me</em></strong>
+<strong><em><img src="Imgs/badge.png" alt="About Me icon" width="20" /> About Me</em></strong>
 
 </h2>
 
-ssddw
+
+
+---
+
+
+
+
+
+
 
