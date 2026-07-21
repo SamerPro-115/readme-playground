@@ -24,11 +24,12 @@
 </div>
 
 <br />
+
 <h2 align="center">
 
-<strong><em>About Me</em></strong>
+<strong><em><img src="/Imgs/badge.png" /> About Me</em></strong>
 
 </h2>
----
 
+ssddw
 
