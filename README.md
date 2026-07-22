@@ -29,7 +29,7 @@
 <br> <br>
 
 <img
-  src="Imgs/wolf-4.gif"
+  src="Imgs/wolf-7.gif"
   align="right"
   alt="About Me icon"
   height="200"
