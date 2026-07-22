@@ -26,13 +26,13 @@
 
 
 
-<br> <br>
+<br> <br> <br>
 
 <img
   src="Imgs/wolf-7.gif"
   align="right"
   alt="About Me icon"
-  height="200"
+  height="180"
 />
 
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   
-<img height="170em" src="https://streak-stats.demolab.com/?user=SamerPro-115&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img height="160em" src="https://streak-stats.demolab.com/?user=SamerPro-115&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 
 
 
