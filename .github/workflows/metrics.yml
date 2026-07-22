@@ -11,3 +11,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: yes
+          plugin_languages_colors: monochrome
+          plugin_languages_sections: most-used, repositories, commits
+          plugin_languages_limit: 5
+          plugin_lines: yes
+          plugin_stars: yes
+          plugin_stars_limit: 0
+          config_theme: classic
+          config_theme_background: "black"
