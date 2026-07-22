@@ -23,4 +23,4 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: +03:00
           AUTO_PUSH: true
-          ANIMATION: "rgb"
+          ANIMATION: "load"
