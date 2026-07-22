@@ -32,15 +32,15 @@
   src="Imgs/wolf-7.gif"
   align="right"
   alt="About Me icon"
-  height="160"
+  height="200"
 />
 
 
 <br>  
 <div align="left">
-<h3><img src="/Imgs/coding.png" width="22" align="center" /> Front-End Developer | Full-Stack Capable</h3>
-<h3><img src="/Imgs/certificate.png" width="28" align="top" /> B.Sc. IT Student (Web Development)</h3>
- <h3><img src="/Imgs/target.png" width="22" align="center" /> Modern, High-Performance Web Applications</h3>
+<p><img src="/Imgs/coding.png" width="22" align="center" /> Front-End Developer | Full-Stack Capable</p>
+<p><img src="/Imgs/certificate.png" width="28" align="top" /> B.Sc. IT Student (Web Development)</p>
+ <p><img src="/Imgs/target.png" width="22" align="center" /> Modern, High-Performance Web Applications</p>
 
 </div>
 <br> <br>
@@ -77,7 +77,7 @@
 
 
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamerPro-115&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamerPro-115&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 
 </div>
 
