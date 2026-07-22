@@ -77,8 +77,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamerPro-115/SamerPro-115/main/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/SamerPro-115/readme-playground/main/metrics.svg" />
 </p>
-
 
 
