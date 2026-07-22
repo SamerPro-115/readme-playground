@@ -44,7 +44,7 @@
 
 <br> <br>
 
-<h2 align="center">Tech stack</h2>
+<h2 align="center"><img src="/Imgs/stacked-layers.png" align="center" width="25" /> Tech stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
