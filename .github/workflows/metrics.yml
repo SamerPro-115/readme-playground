@@ -8,12 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - uses: vn7n24fzkq/github-profile-summary-cards@main
         with:
           USERNAME: SamerPro-115
-          THEME: github_dark
-          BRANCH_NAME: output
-          AUTO_PUSH: true
+          UTC_OFFSET: +03:00
