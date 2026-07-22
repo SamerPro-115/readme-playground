@@ -36,12 +36,13 @@
 />
 
 
-<br> <br> <br>
+<br>  
+<div align="center">
+<h3>Front-End Developer | Full-Stack Capable</h3>
+<h3>B.Sc. IT Student (Web Development)</h3>
+ <h3>Modern UI, Animation & User Experience</h3>
 
--  **Role:** Front-End Developer | Full-Stack Capable
--  **Education:** B.Sc. IT Student (Web Development)
--  **Focus:** Interactive Web Experiences
-
+</div>
 <br> <br>
 
 <h2 align="center"><img src="/Imgs/stacked-layers-2.png" align="center" width="25" /> Tech stack</h2>
