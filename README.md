@@ -26,16 +26,16 @@
 
 
 
-<br> <br> <br>
+<br> <br>
 
 <img
   src="Imgs/wolf-7.gif"
   align="right"
-  alt="About Me icon"
+  alt="Great wolf"
   height="180"
 />
 
-
+ <br>
 <br>  
 <div align="left">
 <p><img src="/Imgs/coding.png" width="22" align="center" /> Front-End Developer | Full-Stack Capable</p>
