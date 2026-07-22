@@ -1,6 +1,6 @@
 
   <!-- Banner-->
-  <img src="https://i.postimg.cc/D0DFQLVx/Sam-github-banner.png" />
+  <img src="/Imgs/Sam-github-banner.png" />
 
 <!-- Social Media-->
 <div align="center">
@@ -36,13 +36,15 @@
 />
 
 
-<br> <br>
+<br> <br> <br>
 
 -  **Role:** Front-End Developer | Full-Stack Capable
 -  **Education:** B.Sc. IT Student (Web Development)
 -  **Focus:** Interactive Web Experiences
 
 <br> <br>
+
+<h2 align="center">Tech stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
