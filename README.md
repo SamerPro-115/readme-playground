@@ -6,19 +6,19 @@
 <div align="center">
   
 <a href="https://www.linkedin.com/in/samer-al-ashqar-4a4327253">
-<img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.tiktok.com/@samerpro_" >
-  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge" /> 
+<a href="https://www.tiktok.com/@samerpro_">
+  <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@SamerPro_" >
-<img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge" /> 
+<a href="https://www.youtube.com/@SamerPro_">
+  <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://samerpro.com" >
-<img src="https://img.shields.io/badge/SamerPro.com-black?style=for-the-badge" /> 
+<a href="https://samerpro.com">
+  <img src="https://img.shields.io/badge/SamerPro.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -67,24 +67,19 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerPro-115&custom_title=Samer%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerPro-115&days=45&custom_title=Samer%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true" />
 </p>
-<div align="left">
 
-<img src="./profile-summary-card-output/dark/0-profile-details.svg" width="70%" />
+<div align="center">
+  
+<img height="180em" src="https://streak-stats.demolab.com/?user=SamerPro-115&hide_border=true&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 
-<br/>
 
-<img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="29%" />
-<img src="./profile-summary-card-output/dark/2-most-commit-language.svg" width="29%" />
 
-<br/>
-
-<img src="./profile-summary-card-output/dark/3-stats.svg" width="29%" />
-<img src="./profile-summary-card-output/dark/4-productive-time.svg" width="29%" />
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%%" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamerPro-115&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 
 </div>
+
 
 
 
