@@ -44,7 +44,7 @@
 
 <br> <br>
 
-<h2 align="center"><img src="/Imgs/stacked-layers.png" align="center" width="25" /> Tech stack</h2>
+<h2 align="center"><img src="/Imgs/stacked-layers-2.png" align="center" width="25" /> Tech stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
@@ -67,6 +67,13 @@
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerPro-115&custom_title=Samer%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true" />
+</p>
 
 
 
