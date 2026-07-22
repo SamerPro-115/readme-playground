@@ -82,8 +82,11 @@
 
 <img src="./profile-summary-card-output/dark/3-stats.svg" width="29%" />
 <img src="./profile-summary-card-output/dark/4-productive-time.svg" width="29%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%%" />
 
 </div>
+
+
 
 
 
