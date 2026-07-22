@@ -1,6 +1,6 @@
 
   <!-- Banner-->
-  <img src="/Imgs/Sam-github-banner.png" />
+  <img src="/Imgs/Sam-github-banner-2.png" />
 
 <!-- Social Media-->
 <div align="center">
