@@ -66,18 +66,27 @@
 </p> 
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamerPro-115&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerPro-115&custom_title=Samer%27s%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true" />
 </p>
+<div align="left">
+
+<img src="./profile-summary-card-output/dark/0-profile-details.svg" width="70%" />
+
+<br/>
+
+<img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="29%" />
+<img src="./profile-summary-card-output/dark/2-most-commit-language.svg" width="29%" />
+
+<br/>
+
+<img src="./profile-summary-card-output/dark/3-stats.svg" width="29%" />
+<img src="./profile-summary-card-output/dark/4-productive-time.svg" width="29%" />
+
+</div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamerPro-115/readme-playground/main/metrics.svg" />
-</p>
+
+
 
 
